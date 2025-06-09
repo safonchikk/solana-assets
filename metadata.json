@@ -1,0 +1,11 @@
+{
+    "name": "WETH",
+    "symbol": "WETH",
+    "description": "Bridgeless Wrapped Ethereum",
+    "image": "https://github.com/safonchikk/solana-assets/blob/main/image.png?raw=true",
+    "attributes": [
+      {
+        "nonce": "1012"
+      }
+    ]
+  }
